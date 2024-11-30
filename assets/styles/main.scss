@@ -1,0 +1,8 @@
+@tailwind base; /* includes preflight as CSS reset */
+@tailwind components;
+@tailwind utilities;
+@import "colors";
+
+body {
+  background-color: $secondary;
+}

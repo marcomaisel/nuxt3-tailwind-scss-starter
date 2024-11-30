@@ -4,6 +4,6 @@
 
 <style lang="scss" scoped>
 .test {
-  color: red;
+  color: $primary
 }
 </style>
