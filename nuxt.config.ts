@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ['@nuxtjs/tailwindcss', 'nuxt-purgecss'],
   css: ['@/assets/styles/main.scss'],
   vite: {
     css: {

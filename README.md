@@ -2,6 +2,12 @@
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+## Features
+
+- Tailwind CSS
+- SASS
+- PurgeCSS - Remove unused CSS
+
 ## Setup
 
 Make sure to install the dependencies:
