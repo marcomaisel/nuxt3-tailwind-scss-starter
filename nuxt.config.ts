@@ -1,4 +1,7 @@
 export default defineNuxtConfig({
+  future: {
+    compatibilityVersion: 4,
+  },
   modules: ['@nuxtjs/tailwindcss', 'nuxt-purgecss'],
   css: ['@/assets/styles/main.scss'],
   vite: {
