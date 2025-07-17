@@ -1,10 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 4 Minimal Starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Look at the [nuxt 4 documentation](https://nuxt.com/docs/4.x/getting-started/introduction) to learn more.
 
 ## Features
 
-- Tailwind CSS
+- Nuxt 4
+- Tailwind CSS 4
 - SASS
 - PurgeCSS - Remove unused CSS
 
@@ -45,4 +46,4 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+Checkout the [deployment documentation](https://nuxt.com/docs/4.x/getting-started/deployment) for more information.
